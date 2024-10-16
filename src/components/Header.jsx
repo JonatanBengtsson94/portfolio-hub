@@ -1,8 +1,8 @@
 function Header() {
   return (
     <header>
+      <h1>Jonatan Bengtsson</h1>
       <nav>
-        <h1>My Portfolio Hub</h1>
         <ul>
           <li><a href="#about">About</a></li>
           <li><a href="#work">Work</a></li>
