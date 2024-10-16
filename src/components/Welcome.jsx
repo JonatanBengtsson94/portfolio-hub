@@ -7,4 +7,5 @@ function Welcome() {
     </main>
  )
 }
+
 export default Welcome
