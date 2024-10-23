@@ -3,7 +3,7 @@ import ProjectCard from "./ProjectCard.jsx"
 
 function ProjectGallery() {
   return (
-    <div>
+    <div className="gallery">
       {projectsData.map(project => (
         <ProjectCard 
           key={project.id}
