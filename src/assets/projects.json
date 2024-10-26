@@ -4,13 +4,13 @@
     "title": "Workout Log",
     "description": "",
     "url": "https://github.com/JonatanBengtsson94/workoutlog",
-    "image": ""
+    "image": "workoutlog_screenshot.png"
   },
   {
     "id": 2,
     "title": "Platformer",
     "description": "",
     "url": "https://github.com/JonatanBengtsson94/FirstUnityGame",
-    "image": ""
+    "image": "platformer_screenshot.png"
   }
 ]
