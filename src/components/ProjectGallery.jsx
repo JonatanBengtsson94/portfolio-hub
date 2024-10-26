@@ -1,5 +1,6 @@
 import projectsData from "../assets/projects.json"
 import ProjectCard from "./ProjectCard.jsx"
+import "./ProjectGallery.css"
 
 function ProjectGallery() {
   return (

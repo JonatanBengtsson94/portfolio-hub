@@ -41,6 +41,16 @@ nav li {
   margin-right: 1rem;
 }
 
+main {
+  max-width: 60rem;
+  margin: auto;
+}
+
+h2 {
+  text-align: center;
+  padding: 1rem;
+}
+
 footer p {
   text-align: center;
 }

@@ -5,6 +5,7 @@ function Welcome() {
   <main>
       <section id="about"></section>
       <section id="projects">
+        <h2>Projects</h2>
         <ProjectGallery />
       </section>
       <section id="contact"></section>
