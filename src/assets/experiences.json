@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "type": "employment",
+    "title": "System Developer",
+    "orginization": "SGU",
+    "date": "2024 - present",
+    "description": "Developing ArcGIS add-ins in C# and automation with python and FME"
+  },
+  {
+    "id": 2,
+    "type": "education",
+    "title": "Bachelor of Science in Surveying Technology and Geographical IT",
+    "orginization": "Karlstad Universitet",
+    "date": "2016 - 2019",
+    "description": "Orientation software development and IT"
+  }
+]
