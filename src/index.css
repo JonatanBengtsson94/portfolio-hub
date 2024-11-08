@@ -18,6 +18,7 @@ body {
 }
 
 header {
+  background: #000000;
   position: sticky;
   top: 0;
   z-index: 1000;
@@ -48,6 +49,10 @@ main {
 
 h2 {
   text-align: center;
+  padding: 1rem;
+}
+
+footer {
   padding: 1rem;
 }
 
